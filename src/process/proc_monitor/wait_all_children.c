@@ -1,5 +1,5 @@
 /*
- * wait_all_children.c - Parent wait all chilren termiated
+ * wait_all_children.c - Parent wait all children termiated
  *
  * Copyright (C) 2016 ZhiPing.He. All rights reserved.
  *

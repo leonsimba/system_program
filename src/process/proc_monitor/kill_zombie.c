@@ -1,5 +1,5 @@
 /*
- * kill_zombie.c - Verify that the kill signal can kill
+ * kill_zombie.c - Verify that the kill signal can't kill
  * 				   the zombie process.
  *
  * Copyright (C) 2016 ZhiPing.He. All rights reserved.
